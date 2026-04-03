@@ -1,0 +1,1 @@
+{\n  "name": "bot",\n  "version": "1.0.0",\n  "dependencies": {\n    "mineflayer": "^3.0.0",\n    "ai-survival-bot": "^1.0.0"\n  }\n}
